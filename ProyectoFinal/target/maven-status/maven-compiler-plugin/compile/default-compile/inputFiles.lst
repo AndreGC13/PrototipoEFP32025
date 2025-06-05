@@ -1,18 +1,18 @@
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\Controlador\seguridad\Bitacora.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\Controlador\seguridad\Bodega.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\Controlador\seguridad\Perfil.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\Controlador\seguridad\Usuario.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\Controlador\seguridad\UsuarioConectado.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\Controlador\seguridad\Utilidades.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\Modelo\Conexion.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\Modelo\seguridad\BitacoraDAO.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\Modelo\seguridad\BodegaDAO.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\Modelo\seguridad\PerfilDAO.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\Modelo\seguridad\RellenarCombos.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\Modelo\seguridad\UsuarioDAO.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\vista\Login.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\vista\MdiGeneral.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\vista\seguridad\MantenimientoBitacora.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\vista\seguridad\MantenimientoBondega.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\vista\seguridad\MantenimientoPerfiles.java
-D:\Salvaaa\Salvaaa\ProyectoFinal\src\main\java\vista\seguridad\MantenimientoUsuario.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\Controlador\seguridad\Bitacora.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\Controlador\seguridad\Bodega.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\Controlador\seguridad\Perfil.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\Controlador\seguridad\Usuario.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\Controlador\seguridad\UsuarioConectado.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\Controlador\seguridad\Utilidades.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\Modelo\Conexion.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\Modelo\seguridad\BitacoraDAO.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\Modelo\seguridad\BodegaDAO.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\Modelo\seguridad\PerfilDAO.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\Modelo\seguridad\RellenarCombos.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\Modelo\seguridad\UsuarioDAO.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\vista\Login.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\vista\MdiGeneral.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\vista\seguridad\MantenimientoBitacora.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\vista\seguridad\MantenimientoBondega.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\vista\seguridad\MantenimientoPerfiles.java
+D:\Examen Final\PrototipoEFP32025\ProyectoFinal\src\main\java\vista\seguridad\MantenimientoUsuario.java

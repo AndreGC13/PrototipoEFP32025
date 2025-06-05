@@ -101,7 +101,7 @@ public class MdiGeneral extends javax.swing.JFrame {
         });
         MenuMantenimientos.add(MantenimientoPerfiles);
 
-        jMenuItem4.setText("Mantenimiento Vendedores");
+        jMenuItem4.setText("Mantenimiento Bodega");
         jMenuItem4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jMenuItem4ActionPerformed(evt);

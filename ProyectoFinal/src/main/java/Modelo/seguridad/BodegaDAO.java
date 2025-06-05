@@ -166,7 +166,7 @@ public class BodegaDAO {
         try {
             conn = Conexion.getConnection();
             report = JasperCompileManager.compileReport(new File("").getAbsolutePath()
-                    + "/src/main/java/ReporteProveedores_cxp/"+ "Reporte.Proveedor.jrxml");
+                    + "/src/main/java/ReporteExamen/"+ "ReporteBodega.jrxml");
             print = JasperFillManager.fillReport(report, p, conn);
             JasperViewer view = new JasperViewer(print, false);
             view.setTitle("Reporte de Vendedores");
